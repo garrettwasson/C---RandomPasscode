@@ -1,0 +1,11 @@
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RandomPasscode\bin\Debug\netcoreapp2.0\RandomPasscode.deps.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RandomPasscode\bin\Debug\netcoreapp2.0\RandomPasscode.runtimeconfig.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RandomPasscode\bin\Debug\netcoreapp2.0\RandomPasscode.runtimeconfig.dev.json
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RandomPasscode\bin\Debug\netcoreapp2.0\RandomPasscode.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RandomPasscode\bin\Debug\netcoreapp2.0\RandomPasscode.pdb
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RandomPasscode\obj\Debug\netcoreapp2.0\RandomPasscode.csprojResolveAssemblyReference.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RandomPasscode\obj\Debug\netcoreapp2.0\RandomPasscode.csproj.CoreCompileInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RandomPasscode\obj\Debug\netcoreapp2.0\RandomPasscode.AssemblyInfoInputs.cache
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RandomPasscode\obj\Debug\netcoreapp2.0\RandomPasscode.AssemblyInfo.cs
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RandomPasscode\obj\Debug\netcoreapp2.0\RandomPasscode.dll
+C:\Users\Garre\Desktop\CODING DOJO WORK\C#\Work\RandomPasscode\obj\Debug\netcoreapp2.0\RandomPasscode.pdb
